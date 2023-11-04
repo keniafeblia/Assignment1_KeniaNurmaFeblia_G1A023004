@@ -1,22 +1,22 @@
 # Assignment1_KeniaNurmaFeblia_G1A023004
 
-###Latar Belakang 
+### Latar Belakang 
 Pesatnya perkembangan teknologi membuat makin banyak pula aplikasi atau program yang digunakan untuk membantu masyarakat. Bukan hanya aplikasi produktif saja, aplikasi hiburan seperti Games juga terus bertumbuhan. Semua aplikasi atau program tersebut dibuat dan dikembangkan menggunakan bahasa pemrograman yang berbeda. Meskipun menggunakan beragam bahasa yang berbeda, namun cara berpikir atau algoritmanya akan tetap sama.
 Sementara itu, pemrograman adalah proses mengembangkan program, perangkat lunak komputer, aplikasi, dan situs web (Tim Kemdikbud, 2021, hlm. 195). Saat ini, komputer tidak dapat berpikir sendiri. Komputer hanya menjalankan perintah yang diberikan kepadanya atau yang sudah tersimpan dan siap dijalankan. Komputer meminta pengguna untuk memberi serangkaian instruksi yang diperintahkan untuk mengetahui apa yang harus dilakukan. Perintah yang dipahami oleh komputer disebut sebagai “kode”, oleh karena itu terkadang pemrograman juga disebut dengan coding (mengode).
 
-###Rumusan masalah 
+### Rumusan masalah 
 1.	Bagaimana cara menerapkan if, else, dan array ?
 2.	Kendala apa yang di dapat saat melakukan pemrograman menggunakan aplikasi ?
 
-###Tujuan 
+### Tujuan 
 1.	Untuk mengetahui bagaimana cara menggunakan if, else, dan array.
 2.	Untuk mengetahui kendala apakah yang sering dihadapi saat melakukan pemrograman menggunakan aplikasi.
 
-###Manfaat
+### Manfaat
 1.	Mengetahui penggunaan if, else, dan array.
 2.	Mengetahui aplikasi yang cocok dengan pengguna.
 
-###Soal dan Pembahasan
+### Soal dan Pembahasan
 1. Buatlah perulangan hingga 100 menggunakan Java dengan output sebagai berikut:
     1
     2
